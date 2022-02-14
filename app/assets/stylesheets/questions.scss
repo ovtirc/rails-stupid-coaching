@@ -1,0 +1,15 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+
+.answer{
+  font-family: 'Xanh Mono', monospace;
+}
+
+.form{
+  background-color: beige;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
